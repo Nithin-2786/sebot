@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #include<iostream>
 using namespace std;
-//challa Nithin
+//challaNithin
 typedef long long int ll;
 
 void TCSOLVE(){
